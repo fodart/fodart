@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Vladyslav 👋
 
-<!--
-**fodart/fodart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer currently learning programming.
+My main focus is Python, and I also explore C# (.NET) and C++.
 
-Here are some ideas to get you started:
+What I'm learning:
+- Python: basics, automation, small tools
+- C#: .NET, desktop applications
+- C++: fundamentals, algorithms, memory basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:
+- improve problem-solving skills
+- write clean and readable code
+- build small but complete projects
